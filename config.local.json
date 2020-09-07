@@ -1,0 +1,7 @@
+{
+  "baseConfig": "cwd:config.json",
+  "datasetBaseUrl": "https://ns.bergnet.org/",
+  "listener": {
+    "port": 8282
+  }
+}
