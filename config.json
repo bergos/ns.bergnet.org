@@ -15,7 +15,7 @@
       "module": "trifid-handler-fetch",
       "options": {
         "resource": "https://ns.bergnet.org/cube/",
-        "url": "file:vocabs/cube.ttl",
+        "url": "https://raw.githubusercontent.com/zazuko/rdf-cube-schema/master/vocab.ttl",
         "contentType": "text/turtle",
         "cache": "true"
       }
